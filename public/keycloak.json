@@ -1,0 +1,8 @@
+{
+  "realm": "todo-app",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "todo-client",
+  "public-client": true,
+  "confidential-port": 0
+}
